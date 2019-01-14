@@ -10,4 +10,10 @@ iSuperMax -- The upper bound of people when bSuperMain is true.
 iSuperMin -- The lower bound of people when bSuperMain is true.   
 iSuperIncrement -- How much to increment the number of people by when bSuperMain is true.   
 
+Files   
+
+
+What this program does    
+
+
 Warning: takes a LONG time to run!!!
