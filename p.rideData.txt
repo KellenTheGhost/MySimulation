@@ -1,0 +1,29 @@
+Location	CarTime	RideSize	ClosestRide	RideTime
+gate	0.15	10	2	0.03
+exit 	0.03	5	1	0.03
+Astro Orbiter	1.5	32	3	1.5
+The Barnstormer	0.5	16	4	1.05
+Big Thunder Mountain Railroad	0.855	30	5	3.42
+Buzz Lightyears Space Ranger Spin	0.33	3	6	4.05
+Country Bear Jamboree	12	100	7	12
+Dumbo the Flying Elephant	1.5	32	8	1.5
+The Hall of Presidents	21.583	100	9	21.583
+Haunted Mansion	0.3	3	10	7.5
+Its a Small World	0.5	20	11	10.5
+Jungle Cruise	0.5	30	12	9.083
+Mad Tea Party	1.5	75	13	1.5
+The Magic Carpets of Aladdin	1.5	6	14	1.5
+The Many Adventures of Winnie the Pooh	1.043	6	15	3.13
+Mickeys PhilharMagic	12	100	16	12
+Monsters Inc. Laugh Floor	11	100	17	11
+Peter Pans Flight	0.5	3	18	2.75
+Pirates of the Caribbean	0.5	20	19	8.5
+Prince Charming Regal Carrousel	2	93	20	2
+Seven Dwarfs Mine Trail	0.8333	20	21	2.5
+Space Mountain	0.8333	6	22	2.5
+Splash Mountain	0.91	8	23	11
+Tomorrowland Speedway	0.4	2	24	4.75
+Tomorrowland Transit Authority PeopleMover	0.1	4	25	10.0667
+Under the Sea - Journey of the Little Mermaid	0.1	2	26	6.25
+Walt Disneys Carousel of Progress	20.75	100	27	20.75
+Walt Disneys Enchanted Tiki Room	10	100	3	10
